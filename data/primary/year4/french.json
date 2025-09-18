@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Comment dit-on 'كتاب' en français ?",
+    "options": ["Livre", "Stylo", "Chaise", "Table"],
+    "answer": "Livre",
+    "explanation": "Le mot 'كتاب' se traduit en français par 'Livre'."
+  },
+  {
+    "question": "Quel est le pluriel de 'chat' ?",
+    "options": ["Chats", "Chattes", "Chati", "Chatons"],
+    "answer": "Chats",
+    "explanation": "Le pluriel de 'chat' est 'chats'."
+  },
+  {
+    "question": "Quelle couleur est le résultat du mélange de rouge et bleu ?",
+    "options": ["Violet", "Vert", "Orange", "Jaune"],
+    "answer": "Violet",
+    "explanation": "Rouge + bleu = violet."
+  },
+  {
+    "question": "Comment dit-on 'maison' en français ?",
+    "options": ["Maison", "École", "Voiture", "Chaise"],
+    "answer": "Maison",
+    "explanation": "'Maison' signifie منزل en arabe."
+  },
+  {
+    "question": "Quel est le contraire de 'grand' ?",
+    "options": ["Petit", "Long", "Gros", "Jeune"],
+    "answer": "Petit",
+    "explanation": "Le contraire de 'grand' est 'petit'."
+  },
+  {
+    "question": "Quelle est la bonne phrase ?",
+    "options": ["Le garçon lit le livre.", "Lit le livre le garçon.", "Le livre lit le garçon.", "Le garçon le livre lit."],
+    "answer": "Le garçon lit le livre.",
+    "explanation": "La structure correcte est Sujet + Verbe + Objet."
+  },
+  {
+    "question": "Quel est le féminin de 'acteur' ?",
+    "options": ["Actrice", "Acteur", "Acteurs", "Acteuse"],
+    "answer": "Actrice",
+    "explanation": "Le féminin de 'acteur' est 'actrice'."
+  },
+  {
+    "question": "Comment dit-on 'école' en arabe ?",
+    "options": ["مدرسة", "بيت", "كتاب", "قلم"],
+    "answer": "مدرسة",
+    "explanation": "'École' signifie مدرسة en arabe."
+  },
+  {
+    "question": "Quel mot est un verbe ?",
+    "options": ["Manger", "Chaise", "Livre", "Table"],
+    "answer": "Manger",
+    "explanation": "Un verbe indique une action, comme 'Manger'."
+  },
+  {
+    "question": "Quel est le pluriel de 'livre' ?",
+    "options": ["Livres", "Livr", "Livrée", "Livri"],
+    "answer": "Livres",
+    "explanation": "Le pluriel de 'livre' est 'livres'."
+  },
+  {
+    "question": "Quel est le contraire de 'chaud' ?",
+    "options": ["Froid", "Tiède", "Chaud", "Sec"],
+    "answer": "Froid",
+    "explanation": "Le contraire de 'chaud' est 'froid'."
+  },
+  {
+    "question": "Quel mot est un adjectif ?",
+    "options": ["Beau", "Livre", "Chaise", "Courir"],
+    "answer": "Beau",
+    "explanation": "L'adjectif décrit un nom, comme 'beau garçon'."
+  },
+  {
+    "question": "Complète : La pomme est ____. ",
+    "options": ["Rouge", "Manger", "Boire", "Courir"],
+    "answer": "Rouge",
+    "explanation": "La phrase correcte est : 'La pomme est rouge.'"
+  },
+  {
+    "question": "Quel mot commence par la lettre 'M' ?",
+    "options": ["Maison", "Livre", "Stylo", "Chaise"],
+    "answer": "Maison",
+    "explanation": "Le mot 'Maison' commence par la lettre M."
+  },
+  {
+    "question": "Quel mot est un nom ?",
+    "options": ["Manger", "Fleur", "Courir", "Jouer"],
+    "answer": "Fleur",
+    "explanation": "Un nom désigne un objet ou un être, comme 'Fleur'."
+  },
+  {
+    "question": "Complète : Le ciel est ____. ",
+    "options": ["Bleu", "Rouge", "Vert", "Noir"],
+    "answer": "Bleu",
+    "explanation": "La phrase correcte est : 'Le ciel est bleu.'"
+  },
+  {
+    "question": "Quel mot est un verbe au présent ?",
+    "options": ["Lit", "Lu", "Lire", "Lecture"],
+    "answer": "Lit",
+    "explanation": "'Lit' est un verbe conjugué au présent."
+  },
+  {
+    "question": "Quel est le féminin de 'ami' ?",
+    "options": ["Amie", "Ami", "Amis", "Amies"],
+    "answer": "Amie",
+    "explanation": "Le féminin de 'ami' est 'amie'."
+  },
+  {
+    "question": "Quel mot est un adjectif qualificatif ?",
+    "options": ["Grand", "Livre", "Stylo", "Maison"],
+    "answer": "Grand",
+    "explanation": "L'adjectif 'grand' décrit un nom, comme 'grand arbre'."
+  },
+  {
+    "question": "Complète : Le chat est ____. ",
+    "options": ["Noir", "Manger", "Courir", "Jouer"],
+    "answer": "Noir",
+    "explanation": "La phrase correcte est : 'Le chat est noir.'"
+  }
+]

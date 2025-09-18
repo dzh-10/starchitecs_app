@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the English word for 'تفاحة'?",
+    "options": ["Apple", "Banana", "Orange", "Grapes"],
+    "answer": "Apple",
+    "explanation": "'تفاحة' in English is 'Apple'."
+  },
+  {
+    "question": "What is the English word for 'قطة'?",
+    "options": ["Cat", "Dog", "Bird", "Horse"],
+    "answer": "Cat",
+    "explanation": "'قطة' in English is 'Cat'."
+  },
+  {
+    "question": "What is the English word for 'كلب'?",
+    "options": ["Dog", "Cat", "Bird", "Fish"],
+    "answer": "Dog",
+    "explanation": "'كلب' in English is 'Dog'."
+  },
+  {
+    "question": "What is the English word for 'كتاب'?",
+    "options": ["Book", "Notebook", "Pen", "Eraser"],
+    "answer": "Book",
+    "explanation": "'كتاب' in English is 'Book'."
+  },
+  {
+    "question": "What is the English word for 'مدرسة'?",
+    "options": ["School", "Home", "Park", "Hospital"],
+    "answer": "School",
+    "explanation": "'مدرسة' in English is 'School'."
+  },
+  {
+    "question": "What is the English word for 'بيت'?",
+    "options": ["House", "Tree", "Street", "School"],
+    "answer": "House",
+    "explanation": "'بيت' in English is 'House'."
+  },
+  {
+    "question": "What is the English word for 'سيارة'?",
+    "options": ["Car", "Bicycle", "Plane", "Boat"],
+    "answer": "Car",
+    "explanation": "'سيارة' in English is 'Car'."
+  },
+  {
+    "question": "What is the English word for 'شمس'?",
+    "options": ["Sun", "Moon", "Star", "Sky"],
+    "answer": "Sun",
+    "explanation": "'شمس' in English is 'Sun'."
+  },
+  {
+    "question": "What is the English word for 'قمر'?",
+    "options": ["Moon", "Sun", "Star", "Sky"],
+    "answer": "Moon",
+    "explanation": "'قمر' in English is 'Moon'."
+  },
+  {
+    "question": "What is the English word for 'ماء'?",
+    "options": ["Water", "Milk", "Juice", "Tea"],
+    "answer": "Water",
+    "explanation": "'ماء' in English is 'Water'."
+  },
+  {
+    "question": "What is the English word for 'خبز'?",
+    "options": ["Bread", "Meat", "Fruits", "Vegetables"],
+    "answer": "Bread",
+    "explanation": "'خبز' in English is 'Bread'."
+  },
+  {
+    "question": "What is the English word for 'جبن'?",
+    "options": ["Cheese", "Milk", "Egg", "Meat"],
+    "answer": "Cheese",
+    "explanation": "'جبن' in English is 'Cheese'."
+  },
+  {
+    "question": "What is the English word for 'شجرة'?",
+    "options": ["Tree", "Flower", "Grass", "Plant"],
+    "answer": "Tree",
+    "explanation": "'شجرة' in English is 'Tree'."
+  },
+  {
+    "question": "What is the English word for 'زهرة'?",
+    "options": ["Flower", "Tree", "Grass", "Plant"],
+    "answer": "Flower",
+    "explanation": "'زهرة' in English is 'Flower'."
+  },
+  {
+    "question": "What is the English word for 'عصفور'?",
+    "options": ["Bird", "Cow", "Horse", "Lion"],
+    "answer": "Bird",
+    "explanation": "'عصفور' in English is 'Bird'."
+  },
+  {
+    "question": "What is the English word for 'حليب'?",
+    "options": ["Milk", "Water", "Juice", "Tea"],
+    "answer": "Milk",
+    "explanation": "'حليب' in English is 'Milk'."
+  },
+  {
+    "question": "What is the English word for 'كرسي'?",
+    "options": ["Chair", "Table", "Bed", "Door"],
+    "answer": "Chair",
+    "explanation": "'كرسي' in English is 'Chair'."
+  },
+  {
+    "question": "What is the English word for 'باب'?",
+    "options": ["Door", "Window", "Chair", "Table"],
+    "answer": "Door",
+    "explanation": "'باب' in English is 'Door'."
+  },
+  {
+    "question": "What is the English word for 'نافذة'?",
+    "options": ["Window", "Door", "Chair", "Table"],
+    "answer": "Window",
+    "explanation": "'نافذة' in English is 'Window'."
+  },
+  {
+    "question": "What is the English word for 'قلم'?",
+    "options": ["Pen", "Pencil", "Eraser", "Book"],
+    "answer": "Pen",
+    "explanation": "'قلم' in English is 'Pen'."
+  }
+]

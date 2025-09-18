@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the English word for 'كتاب'?",
+    "options": ["Book", "Pen", "Chair", "Table"],
+    "answer": "Book",
+    "explanation": "'كتاب' in English is 'Book'."
+  },
+  {
+    "question": "What is the plural of 'cat'?",
+    "options": ["Cats", "Cat", "Cati", "Catons"],
+    "answer": "Cats",
+    "explanation": "The plural of 'cat' is 'cats'."
+  },
+  {
+    "question": "What color do you get by mixing red and blue?",
+    "options": ["Purple", "Green", "Orange", "Yellow"],
+    "answer": "Purple",
+    "explanation": "Red + Blue = Purple."
+  },
+  {
+    "question": "What is the English word for 'مدرسة'?",
+    "options": ["School", "House", "Car", "Chair"],
+    "answer": "School",
+    "explanation": "'مدرسة' in English is 'School'."
+  },
+  {
+    "question": "What is the opposite of 'big'?",
+    "options": ["Small", "Long", "Tall", "Young"],
+    "answer": "Small",
+    "explanation": "The opposite of 'big' is 'small'."
+  },
+  {
+    "question": "Which sentence is correct?",
+    "options": ["The boy reads the book.", "Reads the book the boy.", "The book reads the boy.", "The boy the book reads."],
+    "answer": "The boy reads the book.",
+    "explanation": "Correct word order is Subject + Verb + Object."
+  },
+  {
+    "question": "What is the feminine form of 'actor'?",
+    "options": ["Actress", "Actor", "Actors", "Acteuse"],
+    "answer": "Actress",
+    "explanation": "The feminine of 'actor' is 'actress'."
+  },
+  {
+    "question": "What is the English word for 'قلم'?",
+    "options": ["Pen", "Book", "Chair", "Table"],
+    "answer": "Pen",
+    "explanation": "'قلم' in English is 'Pen'."
+  },
+  {
+    "question": "Which word is a verb?",
+    "options": ["Eat", "Chair", "Book", "Table"],
+    "answer": "Eat",
+    "explanation": "A verb shows an action, such as 'Eat'."
+  },
+  {
+    "question": "What is the plural of 'book'?",
+    "options": ["Books", "Book", "Bookes", "Booki"],
+    "answer": "Books",
+    "explanation": "The plural of 'book' is 'books'."
+  },
+  {
+    "question": "What is the opposite of 'hot'?",
+    "options": ["Cold", "Warm", "Hot", "Dry"],
+    "answer": "Cold",
+    "explanation": "The opposite of 'hot' is 'cold'."
+  },
+  {
+    "question": "Which word is an adjective?",
+    "options": ["Beautiful", "Book", "Chair", "Run"],
+    "answer": "Beautiful",
+    "explanation": "An adjective describes a noun, like 'beautiful boy'."
+  },
+  {
+    "question": "Complete: The apple is ____.",
+    "options": ["Red", "Eat", "Drink", "Run"],
+    "answer": "Red",
+    "explanation": "Correct sentence: 'The apple is red.'"
+  },
+  {
+    "question": "Which word starts with 'M'?",
+    "options": ["Mouse", "Book", "Pen", "Chair"],
+    "answer": "Mouse",
+    "explanation": "The word 'Mouse' starts with the letter M."
+  },
+  {
+    "question": "Which word is a noun?",
+    "options": ["Run", "Flower", "Eat", "Play"],
+    "answer": "Flower",
+    "explanation": "A noun refers to a person, place, or thing, like 'Flower'."
+  },
+  {
+    "question": "Complete: The sky is ____.",
+    "options": ["Blue", "Red", "Green", "Black"],
+    "answer": "Blue",
+    "explanation": "Correct sentence: 'The sky is blue.'"
+  },
+  {
+    "question": "Which word is a present tense verb?",
+    "options": ["Reads", "Read", "Reading", "Book"],
+    "answer": "Reads",
+    "explanation": "'Reads' is a present tense verb."
+  },
+  {
+    "question": "What is the feminine of 'friend'?",
+    "options": ["Friend", "Girlfriend", "Friends", "Amie"],
+    "answer": "Girlfriend",
+    "explanation": "The feminine of 'friend' in this context is 'girlfriend'."
+  },
+  {
+    "question": "Which word is a descriptive adjective?",
+    "options": ["Big", "Book", "Pen", "House"],
+    "answer": "Big",
+    "explanation": "The adjective 'big' describes a noun, like 'big tree'."
+  },
+  {
+    "question": "Complete: The cat is ____.",
+    "options": ["Black", "Eat", "Run", "Play"],
+    "answer": "Black",
+    "explanation": "Correct sentence: 'The cat is black.'"
+  }
+]

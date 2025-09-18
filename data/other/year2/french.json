@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Quelle est la traduction de 'الكتاب' en français ?",
+    "options": ["Le livre", "La table", "La maison", "L'école"],
+    "answer": "Le livre",
+    "explanation": "'Le livre' signifie 'الكتاب' en français."
+  },
+  {
+    "question": "Choisissez la bonne conjugaison du verbe 'manger' au présent, pour 'il':",
+    "options": ["Il mange", "Il manges", "Il mangent", "Il mangé"],
+    "answer": "Il mange",
+    "explanation": "Au présent, 'il' + 'manger' se conjugue 'il mange'."
+  },
+  {
+    "question": "Quelle est la forme correcte de l'article défini pour 'chaise'?",
+    "options": ["La chaise", "Le chaise", "Les chaise", "L'chaise"],
+    "answer": "La chaise",
+    "explanation": "'Chaise' est féminin, donc l'article défini est 'la'."
+  },
+  {
+    "question": "Quel mot complète la phrase: 'Je ___ au marché.'",
+    "options": ["vais", "va", "allez", "allons"],
+    "answer": "vais",
+    "explanation": "Avec le sujet 'Je', le verbe 'aller' se conjugue 'vais'."
+  },
+  {
+    "question": "Choisissez le pluriel correct de 'un livre':",
+    "options": ["des livres", "des livre", "des livrés", "des livr"],
+    "answer": "des livres",
+    "explanation": "Le pluriel de 'un livre' est 'des livres'."
+  },
+  {
+    "question": "Quelle est la traduction de 'القلم' en français ?",
+    "options": ["Le stylo", "La porte", "La fenêtre", "La table"],
+    "answer": "Le stylo",
+    "explanation": "'Le stylo' signifie 'القلم' en français."
+  },
+  {
+    "question": "Choisissez la phrase correcte:",
+    "options": ["Je suis un élève.", "Je suis un élèves.", "Je suis une élèves.", "Je suis un élèves."],
+    "answer": "Je suis un élève.",
+    "explanation": "Singulier masculin: 'un élève'."
+  },
+  {
+    "question": "Quel mot complète la phrase: 'Nous ___ français.'",
+    "options": ["parlons", "parlez", "parle", "parlent"],
+    "answer": "parlons",
+    "explanation": "Avec le sujet 'Nous', le verbe 'parler' se conjugue 'parlons'."
+  },
+  {
+    "question": "Quelle est la bonne traduction de 'المدرسة' ?",
+    "options": ["L'école", "La maison", "Le parc", "La rue"],
+    "answer": "L'école",
+    "explanation": "'L'école' signifie 'المدرسة' en français."
+  },
+  {
+    "question": "Choisissez la bonne négation: 'Je ___ pas faim.'",
+    "options": ["n'ai", "ai", "ne ai", "n'a"],
+    "answer": "n'ai",
+    "explanation": "La forme correcte est 'Je n'ai pas faim'."
+  },
+  {
+    "question": "Quel est le féminin de 'petit' ?",
+    "options": ["petite", "petits", "petites", "petit"],
+    "answer": "petite",
+    "explanation": "'Petit' au féminin devient 'petite'."
+  },
+  {
+    "question": "Choisissez la phrase correcte:",
+    "options": ["Ils vont à l'école.", "Ils va à l'école.", "Ils allons à l'école.", "Ils allez à l'école."],
+    "answer": "Ils vont à l'école.",
+    "explanation": "Avec 'Ils', le verbe 'aller' se conjugue 'vont'."
+  },
+  {
+    "question": "Quelle est la traduction de 'الكتاب الأحمر' ?",
+    "options": ["Le livre rouge", "La table rouge", "Le stylo rouge", "La porte rouge"],
+    "answer": "Le livre rouge",
+    "explanation": "'Le livre rouge' signifie 'الكتاب الأحمر'."
+  },
+  {
+    "question": "Quel mot complète la phrase: 'Elle ___ contente.'",
+    "options": ["est", "sont", "êtes", "es"],
+    "answer": "est",
+    "explanation": "Avec 'Elle', le verbe 'être' se conjugue 'est'."
+  },
+  {
+    "question": "Choisissez le pluriel correct de 'une maison':",
+    "options": ["des maisons", "des maison", "des maisonnées", "des mais"],
+    "answer": "des maisons",
+    "explanation": "Le pluriel de 'une maison' est 'des maisons'."
+  },
+  {
+    "question": "Quelle est la traduction de 'الأصدقاء' ?",
+    "options": ["Les amis", "Les écoles", "Les livres", "Les maisons"],
+    "answer": "Les amis",
+    "explanation": "'Les amis' signifie 'الأصدقاء' en français."
+  },
+  {
+    "question": "Choisissez le mot correct: 'Je ___ un stylo.'",
+    "options": ["ai", "as", "a", "avez"],
+    "answer": "ai",
+    "explanation": "Avec le sujet 'Je', le verbe 'avoir' se conjugue 'ai'."
+  },
+  {
+    "question": "Quelle est la traduction de 'الحديقة الجميلة' ?",
+    "options": ["Le beau jardin", "La belle maison", "Le parc joli", "La rue belle"],
+    "answer": "Le beau jardin",
+    "explanation": "'الحديقة الجميلة' se traduit par 'Le beau jardin'."
+  },
+  {
+    "question": "Quel mot complète la phrase: 'Vous ___ intelligents.'",
+    "options": ["êtes", "est", "sont", "es"],
+    "answer": "êtes",
+    "explanation": "Avec 'Vous', le verbe 'être' se conjugue 'êtes'."
+  },
+  {
+    "question": "Choisissez la bonne préposition: 'Je vais ___ école.'",
+    "options": ["à", "de", "en", "chez"],
+    "answer": "à",
+    "explanation": "La phrase correcte est 'Je vais à l'école'."
+  }
+]

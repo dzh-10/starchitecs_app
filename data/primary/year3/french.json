@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Comment dit-on 'pomme' en arabe ?",
+    "options": ["تفاحة", "موز", "برتقال", "عنب"],
+    "answer": "تفاحة",
+    "explanation": "'pomme' en français signifie 'تفاحة' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'chat' en arabe ?",
+    "options": ["قطة", "كلب", "حصان", "بقرة"],
+    "answer": "قطة",
+    "explanation": "'chat' en français signifie 'قطة' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'chien' en arabe ?",
+    "options": ["كلب", "قطة", "عصفور", "حصان"],
+    "answer": "كلب",
+    "explanation": "'chien' en français signifie 'كلب' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'livre' en arabe ?",
+    "options": ["كتاب", "دفتر", "قلم", "ممحاة"],
+    "answer": "كتاب",
+    "explanation": "'livre' en français signifie 'كتاب' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'école' en arabe ?",
+    "options": ["مدرسة", "حديقة", "بيت", "مستشفى"],
+    "answer": "مدرسة",
+    "explanation": "'école' en français signifie 'مدرسة' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'maison' en arabe ?",
+    "options": ["بيت", "شجرة", "شارع", "مدرسة"],
+    "answer": "بيت",
+    "explanation": "'maison' en français signifie 'بيت' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'voiture' en arabe ?",
+    "options": ["سيارة", "دراجة", "طائرة", "قارب"],
+    "answer": "سيارة",
+    "explanation": "'voiture' en français signifie 'سيارة' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'soleil' en arabe ?",
+    "options": ["شمس", "قمر", "نجمة", "سماء"],
+    "answer": "شمس",
+    "explanation": "'soleil' en français signifie 'شمس' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'lune' en arabe ?",
+    "options": ["قمر", "شمس", "نجمة", "سماء"],
+    "answer": "قمر",
+    "explanation": "'lune' en français signifie 'قمر' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'eau' en arabe ?",
+    "options": ["ماء", "حليب", "عصير", "شاي"],
+    "answer": "ماء",
+    "explanation": "'eau' en français signifie 'ماء' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'pain' en arabe ?",
+    "options": ["خبز", "لحم", "فواكه", "خضار"],
+    "answer": "خبز",
+    "explanation": "'pain' en français signifie 'خبز' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'fromage' en arabe ?",
+    "options": ["جبن", "لحم", "حليب", "بيض"],
+    "answer": "جبن",
+    "explanation": "'fromage' en français signifie 'جبن' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'école' en français ?",
+    "options": ["école", "livre", "maison", "voiture"],
+    "answer": "école",
+    "explanation": "'école' signifie المدرسة en arabe."
+  },
+  {
+    "question": "Comment dit-on 'arbre' en arabe ?",
+    "options": ["شجرة", "زهرة", "نبات", "عشب"],
+    "answer": "شجرة",
+    "explanation": "'arbre' en français signifie 'شجرة' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'fleur' en arabe ?",
+    "options": ["زهرة", "شجرة", "عشب", "نبات"],
+    "answer": "زهرة",
+    "explanation": "'fleur' en français signifie 'زهرة' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'oiseau' en arabe ?",
+    "options": ["عصفور", "بقرة", "حصان", "أسد"],
+    "answer": "عصفور",
+    "explanation": "'oiseau' en français signifie 'عصفور' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'lait' en arabe ?",
+    "options": ["حليب", "ماء", "عصير", "شاي"],
+    "answer": "حليب",
+    "explanation": "'lait' en français signifie 'حليب' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'chaise' en arabe ?",
+    "options": ["كرسي", "طاولة", "سرير", "باب"],
+    "answer": "كرسي",
+    "explanation": "'chaise' en français signifie 'كرسي' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'porte' en arabe ?",
+    "options": ["باب", "نافذة", "كرسي", "طاولة"],
+    "answer": "باب",
+    "explanation": "'porte' en français signifie 'باب' en arabe."
+  },
+  {
+    "question": "Comment dit-on 'fenêtre' en arabe ?",
+    "options": ["نافذة", "باب", "كرسي", "طاولة"],
+    "answer": "نافذة",
+    "explanation": "'fenêtre' en français signifie 'نافذة' en arabe."
+  }
+]

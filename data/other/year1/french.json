@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Comment dit-on 'كتاب' en français ?",
+    "options": ["Livre", "Stylo", "École", "Chaise"],
+    "answer": "Livre",
+    "explanation": "كلمة 'كتاب' بالفرنسية هي 'Livre'."
+  },
+  {
+    "question": "Comment dit-on 'école' en arabe ?",
+    "options": ["مدرسة", "قلم", "بيت", "كتاب"],
+    "answer": "مدرسة",
+    "explanation": "'École' بالفرنسية تعني 'مدرسة' بالعربية."
+  },
+  {
+    "question": "Quelle est la couleur du ciel ?",
+    "options": ["Bleu", "Rouge", "Vert", "Jaune"],
+    "answer": "Bleu",
+    "explanation": "لون السماء هو الأزرق: 'Bleu'."
+  },
+  {
+    "question": "Comment dit-on 'مرحبا' en français ?",
+    "options": ["Bonjour", "Bonsoir", "Au revoir", "Merci"],
+    "answer": "Bonjour",
+    "explanation": "'مرحبا' بالفرنسية هي 'Bonjour'."
+  },
+  {
+    "question": "Quel est le pluriel de 'chien' ?",
+    "options": ["Chiens", "Chien", "Chiennes", "Chiennes"],
+    "answer": "Chiens",
+    "explanation": "جمع كلمة 'chien' بالفرنسية هو 'Chiens'."
+  },
+  {
+    "question": "Quel est le féminin de 'acteur' ?",
+    "options": ["Actrice", "Acteur", "Acteurs", "Actrices"],
+    "answer": "Actrice",
+    "explanation": "المؤنث لكلمة 'acteur' هو 'Actrice'."
+  },
+  {
+    "question": "Comment dit-on 'قلم' en français ?",
+    "options": ["Stylo", "Livre", "École", "Chaise"],
+    "answer": "Stylo",
+    "explanation": "كلمة 'قلم' بالفرنسية هي 'Stylo'."
+  },
+  {
+    "question": "Quelle est la couleur des feuilles des arbres ?",
+    "options": ["Vert", "Bleu", "Rouge", "Jaune"],
+    "answer": "Vert",
+    "explanation": "لون أوراق الشجر هو الأخضر: 'Vert'."
+  },
+  {
+    "question": "Comment dit-on 'Merci' en arabe ?",
+    "options": ["شكرا", "عفوا", "مرحبا", "وداعا"],
+    "answer": "شكرا",
+    "explanation": "'Merci' بالفرنسية تعني 'شكرا' بالعربية."
+  },
+  {
+    "question": "Quel est le contraire de 'grand' ?",
+    "options": ["Petit", "Moyen", "Élevé", "Long"],
+    "answer": "Petit",
+    "explanation": "عكس 'grand' هو 'Petit'."
+  },
+  {
+    "question": "Comment dit-on 'بيت' en français ?",
+    "options": ["Maison", "École", "Livre", "Stylo"],
+    "answer": "Maison",
+    "explanation": "كلمة 'بيت' بالفرنسية هي 'Maison'."
+  },
+  {
+    "question": "Quelle est la couleur du soleil ?",
+    "options": ["Jaune", "Bleu", "Vert", "Rouge"],
+    "answer": "Jaune",
+    "explanation": "لون الشمس هو الأصفر: 'Jaune'."
+  },
+  {
+    "question": "Comment dit-on 'طفل' en français ?",
+    "options": ["Enfant", "Adulte", "École", "Livre"],
+    "answer": "Enfant",
+    "explanation": "كلمة 'طفل' بالفرنسية هي 'Enfant'."
+  },
+  {
+    "question": "Quel est le pluriel de 'chat' ?",
+    "options": ["Chats", "Chat", "Chattes", "Chien"],
+    "answer": "Chats",
+    "explanation": "جمع كلمة 'chat' بالفرنسية هو 'Chats'."
+  },
+  {
+    "question": "Quel jour vient après lundi ?",
+    "options": ["Mardi", "Mercredi", "Jeudi", "Dimanche"],
+    "answer": "Mardi",
+    "explanation": "اليوم بعد الاثنين هو الثلاثاء بالفرنسية: 'Mardi'."
+  },
+  {
+    "question": "Comment dit-on 'المدرسة' en français ?",
+    "options": ["École", "Maison", "Stylo", "Livre"],
+    "answer": "École",
+    "explanation": "'المدرسة' بالفرنسية هي 'École'."
+  },
+  {
+    "question": "Quelle est la couleur des pommes rouges ?",
+    "options": ["Rouge", "Vert", "Bleu", "Jaune"],
+    "answer": "Rouge",
+    "explanation": "لون التفاح الأحمر هو الأحمر: 'Rouge'."
+  },
+  {
+    "question": "Comment dit-on 'معلم' en français ?",
+    "options": ["Professeur", "Élève", "Directeur", "Médecin"],
+    "answer": "Professeur",
+    "explanation": "كلمة 'معلم' بالفرنسية هي 'Professeur'."
+  },
+  {
+    "question": "Quel est le contraire de 'chaud' ?",
+    "options": ["Froid", "Tiède", "Brûlant", "Gelé"],
+    "answer": "Froid",
+    "explanation": "عكس 'chaud' هو 'Froid'."
+  },
+  {
+    "question": "Comment dit-on 'شكرا' en français ?",
+    "options": ["Merci", "Bonjour", "Au revoir", "Pardon"],
+    "answer": "Merci",
+    "explanation": "'شكرا' بالفرنسية هي 'Merci'."
+  }
+]

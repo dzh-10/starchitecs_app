@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Choose the correct translation of 'الكتاب':",
+    "options": ["Book", "Pen", "School", "Table"],
+    "answer": "Book",
+    "explanation": "'Book' means 'الكتاب' in English."
+  },
+  {
+    "question": "Fill in the blank: 'She ___ a teacher.'",
+    "options": ["is", "are", "am", "be"],
+    "answer": "is",
+    "explanation": "'She' takes 'is' in the present tense of 'to be'."
+  },
+  {
+    "question": "Choose the correct plural of 'child':",
+    "options": ["children", "childs", "childes", "child"],
+    "answer": "children",
+    "explanation": "The plural of 'child' is 'children'."
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "options": ["I have two pens.", "I has two pens.", "I have two pen.", "I haves two pens."],
+    "answer": "I have two pens.",
+    "explanation": "The subject 'I' uses 'have' and the plural of 'pen' is 'pens'."
+  },
+  {
+    "question": "Which word is a verb?",
+    "options": ["Run", "Book", "Table", "School"],
+    "answer": "Run",
+    "explanation": "'Run' is a verb because it shows an action."
+  },
+  {
+    "question": "Choose the correct past form of 'go':",
+    "options": ["went", "goed", "goes", "going"],
+    "answer": "went",
+    "explanation": "The past tense of 'go' is 'went'."
+  },
+  {
+    "question": "Fill in the blank: 'They ___ playing football now.'",
+    "options": ["are", "is", "am", "be"],
+    "answer": "are",
+    "explanation": "The correct form with 'They' in present continuous is 'are'."
+  },
+  {
+    "question": "Choose the correct translation of 'المدرسة':",
+    "options": ["School", "Home", "Garden", "Book"],
+    "answer": "School",
+    "explanation": "'School' means 'المدرسة' in English."
+  },
+  {
+    "question": "Which sentence is correct?",
+    "options": ["He likes apples.", "He like apples.", "He liking apples.", "He liked apples."],
+    "answer": "He likes apples.",
+    "explanation": "'He' with present tense verb takes '-s', so 'likes'."
+  },
+  {
+    "question": "Fill in the blank: 'I ___ my homework yesterday.'",
+    "options": ["did", "do", "does", "doing"],
+    "answer": "did",
+    "explanation": "For past tense, we use 'did' for 'I'."
+  },
+  {
+    "question": "Choose the correct adjective order: 'A ___ red car.'",
+    "options": ["big", "red big", "car big red", "red car big"],
+    "answer": "big",
+    "explanation": "The adjective 'big' comes before the noun: 'a big red car'."
+  },
+  {
+    "question": "Which word is a noun?",
+    "options": ["Table", "Run", "Eat", "Jump"],
+    "answer": "Table",
+    "explanation": "'Table' is a noun because it is a thing."
+  },
+  {
+    "question": "Choose the correct form: 'She ___ very happy yesterday.'",
+    "options": ["was", "is", "were", "be"],
+    "answer": "was",
+    "explanation": "Past tense for 'she' is 'was'."
+  },
+  {
+    "question": "Fill in the blank: 'We ___ to the park every Sunday.'",
+    "options": ["go", "goes", "going", "gone"],
+    "answer": "go",
+    "explanation": "'We' with present simple uses 'go'."
+  },
+  {
+    "question": "Choose the correct translation of 'القلم':",
+    "options": ["Pen", "Book", "Table", "Chair"],
+    "answer": "Pen",
+    "explanation": "'Pen' means 'القلم' in English."
+  },
+  {
+    "question": "Which sentence is correct?",
+    "options": ["I am reading a book.", "I reading a book.", "I reads a book.", "I readed a book."],
+    "answer": "I am reading a book.",
+    "explanation": "Present continuous uses 'am/are/is + verb-ing'."
+  },
+  {
+    "question": "Fill in the blank: 'They ___ not at home now.'",
+    "options": ["are", "is", "am", "be"],
+    "answer": "are",
+    "explanation": "Present continuous negative with 'they' uses 'are not'."
+  },
+  {
+    "question": "Choose the correct past tense: 'He ___ a letter yesterday.'",
+    "options": ["wrote", "write", "writes", "writing"],
+    "answer": "wrote",
+    "explanation": "Past tense of 'write' is 'wrote'."
+  },
+  {
+    "question": "Fill in the blank: 'I have ___ apple.'",
+    "options": ["an", "a", "the", "some"],
+    "answer": "an",
+    "explanation": "Before a vowel sound, we use 'an': 'an apple'."
+  },
+  {
+    "question": "Choose the correct question: '___ you like pizza?'",
+    "options": ["Do", "Does", "Are", "Is"],
+    "answer": "Do",
+    "explanation": "For 'you', present simple question uses 'Do'."
+  }
+]

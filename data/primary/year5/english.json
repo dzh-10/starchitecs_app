@@ -1,0 +1,122 @@
+[
+  {
+    "question": "How do you say 'كتاب' in English?",
+    "options": ["Book", "Pen", "School", "Chair"],
+    "answer": "Book",
+    "explanation": "'كتاب' in English is 'Book'."
+  },
+  {
+    "question": "How do you say 'مدرسة' in English?",
+    "options": ["School", "Book", "Pen", "House"],
+    "answer": "School",
+    "explanation": "'مدرسة' in English is 'School'."
+  },
+  {
+    "question": "What color is the sky?",
+    "options": ["Blue", "Red", "Green", "Yellow"],
+    "answer": "Blue",
+    "explanation": "The color of the sky is blue."
+  },
+  {
+    "question": "How do you say 'مرحبا' in English?",
+    "options": ["Hello", "Goodbye", "Thank you", "Please"],
+    "answer": "Hello",
+    "explanation": "'مرحبا' in English is 'Hello'."
+  },
+  {
+    "question": "What is the plural of 'cat'?",
+    "options": ["Cats", "Cat", "Dogs", "Catties"],
+    "answer": "Cats",
+    "explanation": "The plural of 'cat' is 'Cats'."
+  },
+  {
+    "question": "What is the opposite of 'big'?",
+    "options": ["Small", "Tall", "Long", "Short"],
+    "answer": "Small",
+    "explanation": "The opposite of 'big' is 'small'."
+  },
+  {
+    "question": "How do you say 'قلم' in English?",
+    "options": ["Pen", "Book", "Chair", "Table"],
+    "answer": "Pen",
+    "explanation": "'قلم' in English is 'Pen'."
+  },
+  {
+    "question": "What color are the leaves of trees?",
+    "options": ["Green", "Blue", "Red", "Yellow"],
+    "answer": "Green",
+    "explanation": "The color of leaves is green."
+  },
+  {
+    "question": "How do you say 'شكرا' in English?",
+    "options": ["Thank you", "Hello", "Goodbye", "Please"],
+    "answer": "Thank you",
+    "explanation": "'شكرا' in English is 'Thank you'."
+  },
+  {
+    "question": "How do you say 'بيت' in English?",
+    "options": ["House", "School", "Book", "Chair"],
+    "answer": "House",
+    "explanation": "'بيت' in English is 'House'."
+  },
+  {
+    "question": "What color is the sun?",
+    "options": ["Yellow", "Blue", "Red", "Green"],
+    "answer": "Yellow",
+    "explanation": "The color of the sun is yellow."
+  },
+  {
+    "question": "How do you say 'طفل' in English?",
+    "options": ["Child", "Adult", "Teacher", "Parent"],
+    "answer": "Child",
+    "explanation": "'طفل' in English is 'Child'."
+  },
+  {
+    "question": "What day comes after Monday?",
+    "options": ["Tuesday", "Wednesday", "Thursday", "Sunday"],
+    "answer": "Tuesday",
+    "explanation": "The day after Monday is Tuesday."
+  },
+  {
+    "question": "What is the plural of 'dog'?",
+    "options": ["Dogs", "Dog", "Puppies", "Cats"],
+    "answer": "Dogs",
+    "explanation": "The plural of 'dog' is 'Dogs'."
+  },
+  {
+    "question": "What is the opposite of 'hot'?",
+    "options": ["Cold", "Warm", "Boiling", "Cool"],
+    "answer": "Cold",
+    "explanation": "The opposite of 'hot' is 'cold'."
+  },
+  {
+    "question": "How do you say 'معلم' in English?",
+    "options": ["Teacher", "Student", "Principal", "Doctor"],
+    "answer": "Teacher",
+    "explanation": "'معلم' in English is 'Teacher'."
+  },
+  {
+    "question": "How do you say 'المدرسة' in English?",
+    "options": ["School", "House", "Book", "Pen"],
+    "answer": "School",
+    "explanation": "'المدرسة' in English is 'School'."
+  },
+  {
+    "question": "What color are red apples?",
+    "options": ["Red", "Green", "Yellow", "Blue"],
+    "answer": "Red",
+    "explanation": "Red apples are red in color."
+  },
+  {
+    "question": "How do you say 'مع السلامة' in English?",
+    "options": ["Goodbye", "Hello", "Thank you", "Please"],
+    "answer": "Goodbye",
+    "explanation": "'مع السلامة' in English is 'Goodbye'."
+  },
+  {
+    "question": "What is the opposite of 'day'?",
+    "options": ["Night", "Morning", "Evening", "Afternoon"],
+    "answer": "Night",
+    "explanation": "The opposite of 'day' is 'night'."
+  }
+]
